@@ -54,20 +54,17 @@ In pursuing Distinction in my Marketing major from the University of Denver, I c
     <td>
      <ul>
         <li>SQL</li>
-        <li>Visual Basic</li>
         <li>Python</li>
-        <li>R</li>
+        <li>WorkFront</li>
         <li>Excel</li>
-        <li>Microsoft SQL Server Management Studio</li>
-        <li>Microsoft Visual Studio</li>
         <li>Tableau</li>
-       <li>PowerBI</li>
-        <li>Trello</li>
+        <li>Competiscan</li>
+        <li>RedOak</li>
       </ul>
     </td>
     <td>
      <ul>
-        <li><a href = "https://www.credly.com/badges/e654fce3-19be-40b3-9347-228eea2ce3a1/public_url">Microsoft Expert Access 2019</a></li>
+        <li><a href = "https://www.credly.com/users/charles-weltchek">Certification Badges</a></li>
         <li><a href = "https://www.credly.com/badges/23f6c6da-fbcd-4a01-bedc-2f9ca4e5a540/public_url">Microsoft Expert Excel 2019</a></li>
         <li><a href = "https://www.credly.com/badges/ac1cb133-b395-4a61-a71c-8fd6ea908771/public_url">Microsoft Expert Word 2019</a></li>
         <li><a href = "https://www.credly.com/badges/e1f089c5-e148-4a30-9dc3-b6551e873dd8/public_url">Microsoft Associate PowerPoint 2019</a></li>
