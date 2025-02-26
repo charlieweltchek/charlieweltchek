@@ -8,7 +8,7 @@
 [<img src="https://user-images.githubusercontent.com/91146906/162140965-cf707805-9abd-43f7-8314-4f96794c44dc.svg" height="35"/>](#skills)
 
 ## About Me
-Hello! I'm Charles Weltchek, a data-driven marketing and business strategist with a strong foundation in analytics, problem-solving, and project execution. With experience in marketing campaign management, business intelligence, and stakeholder collaboration, I specialize in translating data into actionable strategies that drive business success.
+Hello! I'm Charles Weltchek, a data-driven marketing and business strategist with a strong foundation in analytics, problem-solving, and project execution. With experience in marketing campaign management, business intelligence, and stakeholder collaboration, I specialize in translating data into actionable strategies that drive business success. I am looking for opportunities in strategy and transformation consulting, where I can apply data-driven insights and analytical problem-solving to help businesses optimize operations, improve decision-making, and drive growth.
 
 My background includes marketing analytics, content strategy, and data visualization, allowing me to bridge the gap between technical insights and real-world business applications. I thrive in fast-paced, cross-functional environments, where I collaborate with teams to optimize marketing efforts, streamline business operations, and improve decision-making processes. When I'm not studying, you can find me either on the mountain skiing or out in the sun golfing.
 
@@ -40,7 +40,9 @@ Czech Republic - Fall 2023
 
 <a name="DanielsDistinction"></a>
 ## Daniels Distinction Portfolio
-In pursuing Distinction in my Marketing major from the University of Denver, I compiled a portfolio highlighting my experiences and work throughout my undergraduate years. 
+In pursuing Distinction in my Marketing Major at the University of Denver, I compiled a portfolio highlighting my experiences and work throughout my undergraduate years. The portfolio includes my Technical Skills & Certifications, my applications of Critical Thinking and Communication in real work settings, my Community Engagement, my Intercultural Competence, my value of Business Ethics, and my Resume. 
+
+Check it out to learn more about my Work Experiences and Projects!
 
 <table>
   </tr>
