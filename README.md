@@ -68,14 +68,14 @@ Check it out to learn more about my Work Experiences and Projects!
 <table>
   <tr>
     <th>Tools and Technical Skills</th>
-    <th>Certifications</th>
+    <th>Certifications and Application of Hard Skills</th>
   </tr>
   <tr>
     <td>
      <ul>
         <li>SQL</li>
         <li>Python</li>
-        <li>WorkFront</li>
+        <li>Workfront</li>
         <li>Excel</li>
         <li>Tableau</li>
         <li>Competiscan</li>
@@ -85,9 +85,16 @@ Check it out to learn more about my Work Experiences and Projects!
     <td>
      <ul>
         <li><a href = "https://www.credly.com/users/charles-weltchek">Certification Badges</a></li>
+        <li>Proficient in SQL for querying and analyzing datasets to extract insights and streamline reporting processes.
+        <li>Skilled in Python for data manipulation, automation, and analytics, including predictive modeling and performance tracking.
+        <li>Managed marketing campaigns and materials at Transamerica in Workfront, ensuring timely execution across multiple stakeholders in a highly regulated industry. Used Workfront to track project timelines, approvals, and deliverables for campaigns such as the Sales Contest and product awareness initiatives.
+        <li>Utilized advanced data organization and analysis techniques in Excel for OKO Group – Aman Resorts. I handled large financial datasets to consolidate property data and investment insights. Applied Excel functions for data cleaning and organization.
+        <li>Performed analysis using Google Looker Studio dashboards to increase agent outreach at Transamerica, optimizing outreach strtaegy for sales teams.
+        <li>Used Competiscan at Transamerica to conduct market research and competitive analysis, identifying trends in financial services marketing and consumer engagement. Helped inform best practices for campaign strategies by analyzing industry-wide marketing approaches.
+        <li>Managed regulatory compliance approvals in RedOak for marketing materials at Transamerica, ensuring that flyers, emails, and content updates met legal and brand requirements before being published. Collaborated with compliance teams to streamline content review workflows in a highly regulated financial environment.
   <tr>
     <th>Soft Skills</th>
-    <th>Applications of Skills</th>
+    <th>Applications of Soft Skills</th>
   </tr>
   <tr>
     <td>
