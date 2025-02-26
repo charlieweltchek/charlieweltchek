@@ -7,7 +7,7 @@
 [<img src="https://user-images.githubusercontent.com/91146906/162140921-207cd392-cfe5-40e6-a84e-0a16e19e405a.svg" height="35"/>](#profExp)
 [<img src="https://user-images.githubusercontent.com/91146906/162140965-cf707805-9abd-43f7-8314-4f96794c44dc.svg" height="35"/>](#skills)
 
-## About Me
+## About Me:
 Hello! I'm Charles Weltchek, a data-driven marketing and business strategist with a strong foundation in analytics, problem-solving, and project execution. With experience in marketing campaign management, business intelligence, and stakeholder collaboration, I specialize in translating data into actionable strategies that drive business success. I am looking for opportunities in strategy and transformation consulting, where I can apply data-driven insights and analytical problem-solving to help businesses optimize operations, improve decision-making, and drive growth.
 
 My background includes marketing analytics, content strategy, and data visualization, allowing me to bridge the gap between technical insights and real-world business applications. I thrive in fast-paced, cross-functional environments, where I collaborate with teams to optimize marketing efforts, streamline business operations, and improve decision-making processes. When I'm not studying, you can find me either on the mountain skiing or out in the sun golfing.
@@ -23,7 +23,7 @@ charlie.weltchek@du.edu
 <a name="education"></a>
 <hr>
 
-## Education
+## Education:
 ### University of Denver, Daniels College of Business
 Bachelor of Science in Business Administration – Major in Marketing; Minor in Business Information and Analytics, June 2025
 
@@ -39,7 +39,7 @@ Czech Republic - Fall 2023
 
 
 <a name="DanielsDistinction"></a>
-## Daniels Distinction Portfolio
+## Daniels Distinction Portfolio:
 In pursuing Distinction in my Marketing Major at the University of Denver, I compiled a portfolio highlighting my experiences and work throughout my undergraduate years. The portfolio includes my Technical Skills & Certifications, my applications of Critical Thinking and Communication in real work settings, my Community Engagement, my Intercultural Competence, my value of Business Ethics, and my Resume. 
 
 Check it out to learn more about my Work Experiences and Projects!
@@ -55,15 +55,62 @@ Check it out to learn more about my Work Experiences and Projects!
 <a name="profExp"></a>
 <hr>
 
-## Jobs and Internships
+## Internships, Work Experiences, and Projects:
 <i>See my [LinkedIn](https://www.linkedin.com/in/charles-weltchek/)</i>
+
+During my time at Transamerica, I applied critical thinking skills to manage marketing campaigns and materials in a highly regulated industry. The experiences I had strengthened my ability to approach problems analytically and adapt to fast-paced, high-stakes environments, enhancing my confidence and preparedness for future professional challenges.
+
+I navigated complex workflows in Workfront, ensuring the timely completion of projects despite tight deadlines and collaboration with multiple stakeholders. One significant project involved designing a turnkey structure to help agents effectively leverage social media platforms for lead generation. This required synthesizing data using Google Looker Studio dashboards, analyzing agent outreach metrics, and creatively developing a comprehensive strategy that aligned with broader business goals. Additionally, I created a new Marketing Spotlight email template, improving its usability and visual clarity to enhance team interaction and accessibility. This involved evaluating feedback, analyzing pain points in the previous design, and implementing creative solutions to streamline communication and ensure better engagement across teams.
+
+<img src="https://github.com/user-attachments/assets/de2092f5-dcad-4b6b-8787-b3cd8717efa4" alt="image" width="300">
+
+I showcased strong communication and collaboration skills by managing multiple marketing campaigns under tight deadlines while coordinating with various stakeholders. I worked closely with cross-functional teams and ensured seamless communication using work management platform tools like Workfront to keep projects on track.
+
+​One notable project involved creating a guide to help Transamerica sales agents leverage social media for improved outreach. This required me to connect with top-performing agents, effectively gather insights, and translate their strategies into a comprehensive resource. Additionally, I redesigned and improved the "Marketing Spotlight" email template, demonstrating my ability to adapt, integrate feedback, and deliver actionable solutions. These experiences honed my professionalism, perseverance, and ability to navigate ambiguity while driving impactful results.
+
+<img src="https://github.com/user-attachments/assets/0e8da4cd-05c6-4b80-a6b2-a4e47df93175" alt="image" width="300">
+
+At Welleum, I applied critical thinking to create and implement a social media marketing plan. I conducted detailed research on competitors, market trends, and platform insights, synthesizing this data into a strategy tailored to the company’s goals. By identifying patterns in successful content and optimizing posting practices, I improved engagement and strengthened brand presence. I also analyzed potential partnerships for podcast outreach and event participation, evaluating their strategic value to enhance visibility. This experience sharpened my analytical and strategic thinking skills, preparing me to address complex marketing challenges in future roles.
+
+I effectively communicated ideas and collaborated with the CEO to develop a comprehensive social media marketing plan. I coordinated with podcasts and event organizers reaching out to them to build publicity opportunities, demonstrating interpersonal skills and professionalism in external communications.
+
+<img src="https://github.com/user-attachments/assets/86442d03-c322-41e0-a5b4-c71e1032fee9" alt="image" width="300">
+
+As a Summer Analyst, at OKO Group - Aman Resorts, I utilized critical thinking to tackle complex projects requiring attention to detail and strategic analysis. I worked with advanced Excel functions to clean, organize, and analyze financial data, ensuring accuracy and usability for decision-making. Collaborating with the Aman marketing and sales team, I developed documentation for a residential rental program, which required evaluating legal documents while aligning with broader business objectives. Additionally, I conducted in-depth research on tax law changes and their implications for investments, synthesizing this information to support strategic planning. These experiences sharpened my ability to analyze detailed information, connect it to broader business goals, and present actionable insights. Professionally, this role enhanced my problem-solving skills, adaptability, and ability to apply analytical tools to real-world challenges.
+
+<img src="https://github.com/user-attachments/assets/84fc7283-e1ee-4bfa-91c8-36c30802b5dd" alt="image" width="300">
+<img src="https://github.com/user-attachments/assets/747fdb58-49b3-4975-84f9-c3bde6c53ed6" alt="image" width="300">
+
+At LavaMaeX, a nonprofit dedicated to providing services for the homeless, I employed critical thinking to manage social media platforms and create impactful content tailored to diverse audiences. One key responsibility involved conducting interviews with partner organizations, where I gathered varied perspectives and synthesized them into compelling blog posts that highlighted the organization’s mission and fostered community engagement. This process required evaluating the most relevant insights, organizing complex information, and presenting it in a way that was accessible and meaningful to the audience.
+
+​I also utilized analytics tools like Meltwater and Talkwalker to assess the effectiveness of social media campaigns. By analyzing performance metrics and identifying engagement trends, I developed data-driven strategies to enhance the nonprofit’s online presence. For example, I restructured posting schedules and adjusted content styles to align with audience behavior, leading to improved engagement metrics.
+
+I refined my communication and interpersonal skills through diverse and impactful projects. Managing the organization’s social media accounts required crafting clear, engaging content and maintaining a consistent brand voice to effectively connect with a wide audience. I conducted interviews with partner organizations, translating their insights into compelling blog posts that highlighted their contributions and strengthened external relationships. Additionally, I analyzed social media campaign data and prepared detailed monthly reports and presentations, delivering actionable insights to guide strategy improvements. These experiences enhanced my ability to communicate professionally, foster collaboration, and convey complex information with clarity and precision.
+
+<img src="https://github.com/user-attachments/assets/cadf42ce-0a01-4d2a-908d-d5274ee40370" alt="image" width="300">
+<img src="https://github.com/user-attachments/assets/866d3b7d-19c4-47be-91d0-718d31308c38" alt="image" width="300">
+
+![image](https://github.com/user-attachments/assets/1469f7b6-0cd3-45af-b94e-0f5de6d2d07f)
+
+These experiences not only strengthened my ability to evaluate and synthesize information but also enhanced my strategic thinking and adaptability. Professionally, this role deepened my understanding of how data and storytelling intersect in marketing while improving my confidence in managing multifaceted projects that required both analytical and creative problem-solving.
+
+As a line cook at El Refràn, a restaurant in Puerto Rico, I communicated clearly and efficiently in a high-pressure, fast-paced environment to ensure smooth teamwork and operations. This role required adaptability, precise communication, and composure under stress to meet customer expectations and maintain productivity. It strengthened my interpersonal effectiveness and ability to collaborate in demanding situations.
+
+<img src="https://github.com/user-attachments/assets/a3f55833-0d7f-4c61-975f-79bcebd47064" alt="image" width="300">
+<img src="https://github.com/user-attachments/assets/10cc22ac-4352-46eb-904c-5693984cdbe8" alt="image" width="300">
+
+As Marketing Chair for the International Business Club, I improved my communication and teamwork skills by creating promotional materials, managing memberships, and coordinating events with other leadership chairs. These responsibilities helped me understand the importance of clear communication, task management, and collaboration in achieving shared goals. This experience provided practical skills that will support me in future team-based and professional environments.
+
+<img src="https://github.com/user-attachments/assets/1662946d-8318-46c8-8397-aa9310630a62" alt="image" width="300">
+
+My involvement in the Consulting Club allowed me to develop interpersonal and professional communication skills through networking and workshops. I attended sessions on LinkedIn optimization and effective networking strategies, reflecting on how these tools contribute to personal and professional growth. By applying feedback from these sessions, I improved my personal branding and prepared for successful collaboration in a business environment.
 
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
 
 <a name="skills"></a>
 <hr>
 
-## Skills
+## Skills:
 
 <table>
   <tr>
