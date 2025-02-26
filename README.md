@@ -30,11 +30,16 @@ Bachelor of Science in Business Administration – Major in Marketing; Minor in 
 <ul>
   <li><b>Overall GPA: 3.89
   <li><b>Major GPA: 4.0 - Hornbeck Scholar
-
 </ul>
 
+### Prague University of Economics and Business Prague 
+Czech Republic - Fall 2023
+
+<hr>
+
+
 <a name="DanielsDistinction"></a>
-### Daniels Distinction Portfolio
+## Daniels Distinction Portfolio
 In pursuing Distinction in my Marketing major from the University of Denver, I compiled a portfolio highlighting my experiences and work throughout my undergraduate years. 
 
 <table>
@@ -78,11 +83,30 @@ In pursuing Distinction in my Marketing major from the University of Denver, I c
     <td>
      <ul>
         <li><a href = "https://www.credly.com/users/charles-weltchek">Certification Badges</a></li>
-
+  <tr>
+    <th>Soft Skills</th>
+    <th>Applications of Skills</th>
   </tr>
-
+  <tr>
+    <td>
+     <ul>
+        <li>Adaptability & Problem-Solving</li>
+        <li>Communication & Stakeholder Management</li>
+        <li>Relationship Managment</li>
+        <li>Organization</li>
+        <li>Project & Time Management</li>
+        <li>Data Interpretation & Analytical Thinking</li>
+        <li>Leadership & Initiative</li>
+      </ul>
    </td>
- </tr>
+   <td>
+    <ul>
+       <li>Effectively convey complex data insights to both technical and non-technical audiences. Collaborate with cross-functional teams, including marketing, compliance, legal, and sales, to align strategies. At Transamerica, I worked across teams in a highly regulated industry to execute marketing campaigns under tight deadlines.
+       <li>Quickly adjust to new industries, roles, and technologies, ensuring efficient execution of projects. Solve business challenges by leveraging data and market research to make informed decisions. At OKO Group – Aman Resorts, I pivoted between financial analysis, real estate research, and marketing strategy to support investment initiatives.
+       <li>Manage multiple projects simultaneously, meeting tight deadlines while maintaining high-quality output. Efficiently organize and execute marketing initiatives, content strategies, and data-driven campaigns. At Welleum, I developed a structured social media marketing plan and managed Amazon Seller Central content while balancing additional research projects.
+       <li>Translate raw data into actionable insights, improving business strategies and customer engagement. Use visualization tools like Tableau and Google Looker Studio to present key findings. At Transamerica, I conducted agent analytics projects that informed more effective social media engagement strategies.
+       <li>Take ownership of projects and proactively identify areas for improvement. Lead teams and initiatives, demonstrating a results-driven approach to business challenges. As Marketing Chair for the International Business Club, I created and executed marketing strategies to improve engagement and visibility.
+
 </table>
 
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
