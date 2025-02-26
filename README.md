@@ -12,7 +12,13 @@ Hello! I'm Charles Weltchek, a data-driven marketing and business strategist wit
 
 My background includes marketing analytics, content strategy, and data visualization, allowing me to bridge the gap between technical insights and real-world business applications. I thrive in fast-paced, cross-functional environments, where I collaborate with teams to optimize marketing efforts, streamline business operations, and improve decision-making processes. When I'm not studying, you can find me either on the mountain skiing or out in the sun golfing.
 
-Here you will find details on my education, work experiences, and skills. My Daniels Distinction Portfolio is also attached which includes a more detailed look at my Technical Skills & Certifications, my applications of Critical Thinking and Communication in real work settings, my Community Engagement, my Intercultural Competence, and my Resume.
+Here you will find details on my education, work experiences, and skills. My Daniels Distinction Portfolio is also attached which includes a more detailed look at my Technical Skills & Certifications, my applications of Critical Thinking and Communication in real work settings, my Community Engagement, my Intercultural Competence, and my Resume. 
+
+Please reach out to me! My Email is:
+
+charlie.weltchek@gmail.com
+
+charlie.weltchek@du.edu
 
 <a name="education"></a>
 <hr>
