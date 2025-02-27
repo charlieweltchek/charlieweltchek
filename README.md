@@ -35,7 +35,6 @@ Bachelor of Science in Business Administration – Major in Marketing; Minor in 
 Key Courses Taken:
 
 <ul>
-  <li><b>New Media & Trends in ICT - Focus on emerging information communication technology
   <li><b>Fourth Industrial Revolution - Focus on the Internet of Things and the evolving world of business
   <li><b>Analytics I: Data & Analysis
   <li><b>Analytics II: Stat & Analysis
@@ -45,13 +44,21 @@ Key Courses Taken:
   <li><b>Analytics Research
   <li><b>Intro to Financial Reporting
   <li><b>Accounting for Decision Making
-  <li><b>
-  <li><b>
-  <li><b>
-  <li><b>
-  <li><b>
-  <li><b>
-  <li><b>
+  <li><b>Financial Decision Making
+  <li><b>Business Communications
+  <li><b>Business Policy and Strategy
+  <li><b>Business for the Public Good
+  <li><b>Consumer Behavior
+  <li><b>Methods of Marketing Research
+  <li><b>The Power of Prof. Selling
+  <li><b>Fndtns of Digital Marketing
+  <li><b>International Marketing
+  <li><b>Integrative Marketing Strategy
+  <li><b>Mktg in Cen & East Europe
+  <li><b>New Media & Trends in ICT - Focus on emerging information communication technology
+  <li><b>Product/Brand Marketing
+  <li><b>Calculus - Business & Soc Sci
+  <li><b>Intro to Entrepreneurship
 </ul>
 
 ### Prague University of Economics and Business Prague 
