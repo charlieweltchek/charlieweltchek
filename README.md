@@ -35,30 +35,24 @@ Bachelor of Science in Business Administration – Major in Marketing; Minor in 
 Key Courses Taken:
 
 <ul>
-  <li><b>Fourth Industrial Revolution - Focus on the Internet of Things and the evolving world of business
-  <li><b>Analytics I: Data & Analysis
-  <li><b>Analytics II: Stat & Analysis
-  <li><b>Analytics III: Bus Modeling
-  <li><b>Automating Business Processes
-  <li><b>Found of Information Mgmt
-  <li><b>Analytics Research
-  <li><b>Intro to Financial Reporting
-  <li><b>Accounting for Decision Making
-  <li><b>Financial Decision Making
-  <li><b>Business Communications
-  <li><b>Business Policy and Strategy
-  <li><b>Business for the Public Good
-  <li><b>Consumer Behavior
-  <li><b>Methods of Marketing Research
-  <li><b>The Power of Prof. Selling
-  <li><b>Fndtns of Digital Marketing
-  <li><b>International Marketing
-  <li><b>Integrative Marketing Strategy
-  <li><b>Mktg in Cen & East Europe
-  <li><b>New Media & Trends in ICT - Focus on emerging information communication technology
-  <li><b>Product/Brand Marketing
-  <li><b>Calculus - Business & Soc Sci
-  <li><b>Intro to Entrepreneurship
+  <li><b>Fourth Industrial Revolution - Gave me a practical glimpse into the future of the global and competitive nature of business. There was a focus on Key 4th industrial revolution technologies such as artificial intelligence (AI), the Internet of Things (IoT), distributed ledger technology and cryptocurrency, augmented/mixed/virtual reality, additive manufacturing, and autonomous, robotics, and drones.
+  <li><b>Analytics I: Data Management and Analysis - Became familiar with the business data landscape, as well as basic data management and analysis skills through spreadsheet and database applications.
+  <li><b>Analytics II: Business Statistics and Analysis - Learned the basic tenets of probability and statistics, with an emphasis on business applications.
+  <li><b>Analytics III: Business Modeling and Analysis - Mastered the techniques of multiple regression analysis, time series analysis, spreadsheet modeling, and simulation for solving a variety of business problems. Applications included economic forecasting, supply chain management, and project management.
+  <li><b>Automating Business Processes - Learned to use Microsoft Excel and Python to support data-driven decision-making. Became familiar with advanced Excel functions and menu options along with basic spreadsheet modeling design, automating tasks in Excel using VBA, and using Python to create programs outside of the Microsoft Office environment.
+  <li><b>Found of Information Mgmt - Learned the foundations of information management, database theory, appropriate database design, modeling tools, and the practical issues of database implementation and management.
+  <li><b>Analytics Research - Conducted research on the effects of working from home during the Covid-19 pandemic on Fortune 500 companies' bottom line. Analyzed various research papers throughout the class.
+  <li><b>Intro to Financial Reporting - I learned how to analyze transactions and prepare financial statements. In addition, I got familiar with publicly traded company's annual reports and 10k's. 
+  <li><b>Accounting for Decision Making - There was a focus on interpreting financial information for making business decisions. I learned the concepts of cost behavior, cost-volume-profit analysis, and master budgeting.
+  <li><b>Financial Decision Making - Mastered basic financial principles and analytical skills including ratio analysis, breakeven analysis and leverage, net present value, internal rate of return, and standard forecasting techniques.
+  <li><b>Business Policy and Strategy - Learned about key decisions that top executives have to make when developing and implementing strategies, the methodologies for informing those decisions, and how to interpret information from those approaches to guide strategic decision-making to impact a firm’s performance and success.
+  <li><b>Business for the Public Good - Taught me to think critically and creatively to address a societal issue through the lens of business. 
+  <li><b>Consumer Behavior - Mastered the frameworks from psychology, sociology, and other disciplines to describe how consumers learn and how they arrive at purchase decisions.
+  <li><b>Methods of Marketing Research - Became proficient in the methods of collecting and analyzing qualitative and quantitative data, research concepts, and presenting marketing research results to internal and external customers. 
+  <li><b>The Power of Prof. Selling - Learned the importance of moving others through non-sales selling as well as how to create value for customers, and developed skills that have made me a more capable advocate and influencer.
+  <li><b>Foundations of Digital Marketing - Learned the knowledge and skills necessary to plan and implement a digital marketing strategy, create and manage digital marketing campaigns, and select and utilize the most effective tools and technologies to achieve a business's objectives. Mastered how to successfully integrate online tools, including user experience (UX) analytics, search engine optimization, pay-per-click advertising, email marketing, content marketing, reputation management, social media, and AI usage/ implementation, within the overall marketing mix. 
+  <li><b>International Marketing - Learned various economic, social, cultural, political, and legal dimensions of international marketing from conceptual, methodological, and application perspectives, and emphasizes how these international environmental factors should affect and can be integrated into, marketing programs and strategies.
+  <li><b>Integrative Marketing Strategy - Mastered utilizing a rigorous planning process to develop marketing programs to develop effective marketing programs and understand the applications and limitations of the principal planning tools a marketing manager has at their disposal. 
 </ul>
 
 ### Prague University of Economics and Business Prague 
