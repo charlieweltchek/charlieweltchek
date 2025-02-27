@@ -32,6 +32,28 @@ Bachelor of Science in Business Administration – Major in Marketing; Minor in 
   <li><b>Major GPA: 4.0 - Hornbeck Scholar
 </ul>
 
+Key Courses Taken:
+
+<ul>
+  <li><b>New Media & Trends in ICT - Focus on emerging information communication technology
+  <li><b>Fourth Industrial Revolution - Focus on the Internet of Things and the evolving world of business
+  <li><b>Analytics I: Data & Analysis
+  <li><b>Analytics II: Stat & Analysis
+  <li><b>Analytics III: Bus Modeling
+  <li><b>Automating Business Processes
+  <li><b>Found of Information Mgmt
+  <li><b>Analytics Research
+  <li><b>Intro to Financial Reporting
+  <li><b>Accounting for Decision Making
+  <li><b>
+  <li><b>
+  <li><b>
+  <li><b>
+  <li><b>
+  <li><b>
+  <li><b>
+</ul>
+
 ### Prague University of Economics and Business Prague 
 Czech Republic - Fall 2023
 
