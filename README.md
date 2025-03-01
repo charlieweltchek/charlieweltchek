@@ -124,7 +124,7 @@ As a line cook at El Refràn, a restaurant in Puerto Rico, I communicated clearl
 
 As Marketing Chair for the International Business Club, I improved my communication and teamwork skills by creating promotional materials, managing memberships, and coordinating events with other leadership chairs. These responsibilities helped me understand the importance of clear communication, task management, and collaboration in achieving shared goals. This experience provided practical skills that will support me in future team-based and professional environments.
 
-<img src="https://github.com/user-attachments/assets/1662946d-8318-46c8-8397-aa9310630a62" alt="image" width="300">
+<img src="https://github.com/user-attachments/assets/1662946d-8318-46c8-8397-aa9310630a62" alt="image" width="250">
 
 My involvement in the Consulting Club allowed me to develop interpersonal and professional communication skills through networking and workshops. I attended sessions on LinkedIn optimization and effective networking strategies, reflecting on how these tools contribute to personal and professional growth. By applying feedback from these sessions, I improved my personal branding and prepared for successful collaboration in a business environment.
 
@@ -134,7 +134,7 @@ Being a member of Zeta Beta Tau Fraternity helped me to develop and hone my skil
 
 <img src="https://github.com/user-attachments/assets/1dd44ded-2ed0-4167-b0af-ba50b14dbbc8" alt="image" width="375">
 <img src="https://github.com/user-attachments/assets/bfb8f532-6478-4f75-b53a-8ea52a012982" alt="image" width="350">
-<img src="https://github.com/user-attachments/assets/a2f9acd2-bac6-4971-a566-31eb79a0620b" alt="image" width="250">
+<img src="https://github.com/user-attachments/assets/a2f9acd2-bac6-4971-a566-31eb79a0620b" alt="image" width="200">
 
 
 Here is an example of a Python Program I created that uses CSV files to perform data audits, summaries, graphs, and statistical analyses on data and the Excel workbook that goes along with it that uses VBA coding for buttons to import a .csv file to perform different statistical summaries and graphs of the data:
