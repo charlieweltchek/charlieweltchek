@@ -216,7 +216,9 @@ Here is an example of a Python Program I created that uses CSV files to perform 
 
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
 
+
 Resume:
+
 ![image](https://github.com/user-attachments/assets/42d2bd2b-9565-4ae2-8400-0d44e8e7cbc9)
 
 
