@@ -136,6 +136,24 @@ Being a member of Zeta Beta Tau Fraternity helped me to develop and hone my skil
 <img src="https://github.com/user-attachments/assets/bfb8f532-6478-4f75-b53a-8ea52a012982" alt="image" width="350">
 <img src="https://github.com/user-attachments/assets/a2f9acd2-bac6-4971-a566-31eb79a0620b" alt="image" width="250">
 
+
+Here is an example of a Python Program I created that uses CSV files to perform data audits, summaries, graphs, and statistical analyses on data and the Excel workbook that goes along with it that uses VBA coding for buttons to import a .csv file to perform different statistical summaries and graphs of the data:
+
+<img src="https://github.com/user-attachments/assets/f01be5a2-ca96-4d21-b4bd-bc4758e6af64" alt="image" width="650">
+<img src="https://github.com/user-attachments/assets/1f592499-8bf1-4bc7-a630-ccaed5379e13" alt="image" width="650">
+<img src="https://github.com/user-attachments/assets/263cddd4-0acf-4c51-911e-d9e1e37f1022" alt="image" width="650">
+<img src="https://github.com/user-attachments/assets/cea4dab4-cb60-4d02-aeed-d8879ad442e3" alt="image" width="650">
+<img src="https://github.com/user-attachments/assets/3d11345d-d863-48a4-88e0-7292cdcbd6b5" alt="image" width="400">
+<img src="https://github.com/user-attachments/assets/add920f8-88f2-421a-865d-651d3fe74efb" alt="image" width="650">
+<img src="https://github.com/user-attachments/assets/418f7b9f-d196-4c21-b740-2d28bdfbc417" alt="image" width="650">
+<img src="https://github.com/user-attachments/assets/d62e0405-758e-477f-a1d7-c52693522621" alt="image" width="650">
+<img src="https://github.com/user-attachments/assets/0c5a516f-af66-434f-ae10-e09b61c37d4b" alt="image" width="650">
+<img src="https://github.com/user-attachments/assets/7dac65c9-1802-493b-aab7-b61d84e82d6e" alt="image" width="650">
+<img src="https://github.com/user-attachments/assets/31c1366e-0109-469b-89aa-8f44ae4663fd" alt="image" width="650">
+<img src="https://github.com/user-attachments/assets/a5ef9514-8d1f-4963-ad56-7310d9d66a4b" alt="image" width="650">
+
+
+
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
 
 <a name="skills"></a>
