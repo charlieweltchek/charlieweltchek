@@ -28,8 +28,8 @@ charlie.weltchek@du.edu
 Bachelor of Science in Business Administration – Major in Marketing; Minor in Business Information and Analytics, June 2025
 
 <ul>
-  <li><b>Overall GPA: 3.89
-  <li><b>Major GPA: 4.0 - Hornbeck Scholar
+  <li><b>Overall GPA: 3.90
+  <li><b>Major GPA: 4.0 - Minor GPA: 4.0 - Hornbeck Scholar
 </ul>
 
 Key Courses Taken:
