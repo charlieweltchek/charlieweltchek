@@ -219,6 +219,6 @@ Here is an example of a Python Program I created that uses CSV files to perform 
 
 Resume:
 
-![image](https://github.com/user-attachments/assets/42d2bd2b-9565-4ae2-8400-0d44e8e7cbc9)
+![image](https://github.com/user-attachments/assets/70b14586-9239-45ab-8d95-4f6fcc6e70d6)
 
 
